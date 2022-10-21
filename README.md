@@ -9,8 +9,9 @@ My Skills :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-unani&show_icons=true&theme=radical)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-unani)](https://github.com/coder-unani/github-readme-stats)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-unani)](https://github.com/coder-unani/github-readme-stats)
 <!--
 **coder-unani/coder-unani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
