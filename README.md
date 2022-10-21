@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi+there+👋&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%27m+unani%2C+the+developer&descAlignY=45&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi+there+👋&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%27m+unani%2C+the+developer&descAlignY=55&descAlign=62)
 
 My Skills :
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
